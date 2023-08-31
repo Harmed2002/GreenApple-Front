@@ -53,7 +53,7 @@
 	};
 
 	const verProductos = (datos) => {
-		pedido.value = datos;
+		pedido.value = datos;ñ
 
 		visibleProductos.value = true;
 	};
